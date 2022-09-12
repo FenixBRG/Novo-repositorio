@@ -7,6 +7,5 @@ int main(){
     scanf("%f",&n1);
    
     printf("\n seu numero eh %.0f",n1);
-    printf("\n Fim do programa");
     return 0;
 }
